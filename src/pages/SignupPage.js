@@ -62,7 +62,7 @@ const SignupPage = () => {
           </div>
           <div className="text-center">
           <button className="btn btn-primary me-4" onClick={navigateToLogin}>
-              Login Page
+              Take me to Login Page
             </button>
             <button className="btn btn-primary" onClick={handleSignup}>
               Signup and Login
